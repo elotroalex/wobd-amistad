@@ -22,7 +22,7 @@ title: Keynotes
     <h2 class="speaker-name">Gia Hamilton</h2>
     <p class="speaker-role">Applied Anthropologist &nbsp;·&nbsp; Co-Founder, Little Maroons &nbsp;·&nbsp; Director, New Orleans African American Museum</p>
     <img src="{{site.baseurl}}/images/keynotes/gia-hamilton.png" class="speaker-portrait" />
-    <p>Gia Hamilton builds institutions where none existed and finds community where others see empty space. From co-founding little maroons, an African-centered school, to establishing Gris Gris Lab as a creative incubator, to directing the New Orleans African American Museum, she has spent two decades designing environments where imagination is treated as infrastructure. As a researcher, educator, and applied anthropologist, she brings what she calls "Social magic" to every room she enters — and the rooms are never the same after.</p>
+    <p>Gia Hamilton builds institutions where none existed and finds community where others see empty space. From co-founding little maroons, an African-centered school, to establishing Gris Gris Lab as a creative incubator, to directing the New Orleans African American Museum, she has spent two decades designing environments where imagination is treated as infrastructure. As a researcher, educator, and applied anthropologist, she brings a pinch of Social Magic™ to every room she enters — and the rooms are never the same after.</p>
   </div>
 
 </div>
