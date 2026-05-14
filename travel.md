@@ -13,23 +13,17 @@ The recommended hotel for Who Owns Black Data III: The Fight for Black Futures i
 
 ## Driving Directions to Nunemaker Auditorium \[ 6363 Saint Charles Avenue, New Orleans, LA 70118 \]
 
+### Using S Claiborne Ave
+
+Get on S Claiborne Ave from Poydras St. Head toward S Liberty St/Poydras Plz. Turn left onto S Claiborne Ave. Turn left to merge onto S Claiborne Ave. Follow S Claiborne Ave to State St. Merge onto S Claiborne Ave. Use the left lane to make a U-turn at S Johnson St. Continue on State St to your destination. Turn right onto State St. Turn right onto St Charles Ave. Turn right.
+
 ### Using Poydras St and Nashville Ave
 
-Take Poydras St and S Broad St to Nashville Ave. Continue on Nashville
-
-Ave. Drive to Marquette Pl
-
-### Using Poydras St
-
-Take Poydras St and S Broad St to Nashville Ave. Continue on Nashville Ave. to S Claiborne Ave. Turn right onto S Claiborne Ave/ Follow Calhoun St to Marquette Pl.
-
-### Using St Charles Ave
-
-Take Simon Bolivar Ave and St Charles Ave to Palmer Ave. Continue on Palmer Ave. Drive to Marquette Pl
+Take Poydras St and S Broad St to Nashville Ave. Turn left onto Nashville Avenue. Turn right onto St. Charles.
 
 ## Parking
 
-Nunemaker Auditorium is located on the third floor of the Monroe Science Complex. (located directly behind the Communications/Music Complex) at Loyola University New Orleans. Due to its location in an urban environment, we cannot guarantee available parking.
+Nunemaker Auditorium is located on the third floor of the Monroe Science Complex (directly behind the Communications/Music Complex) at Loyola University New Orleans. Due to its location in an urban environment, we cannot guarantee available parking.
 
 _On-street_ is available on St. Charles Avenue and Calhoun Street. _Off-street parking_ is also available nearby.
 
